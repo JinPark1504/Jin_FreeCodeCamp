@@ -12,7 +12,7 @@ I will try to keep it updated when I complete each section of FreeCodeCamp. I wi
 
 ## Link
 
-- The [Wiki]()
+- The [Wiki](https://github.com/JinPark1504/Jin_FreeCodeCamp/wiki)
 
 ## Completed:
 
