@@ -18,10 +18,14 @@ I will try to keep it updated when I complete each section of FreeCodeCamp. I wi
 
 1. Responsive Web Design Certification
 2. JavaScript Algorithms And Data Structures Certification
+3. Front End Libraries Certification
+    1. Bootstrap
+    2. jQuery
+    3. Sass
 
 ## To-Dos:
 
-- Front End Libraries Certification
+- Front End Libraries Certification (proceeding)
 - Data Visualization Certification
 - Apis And Microservices Certification
 - Information Security And Quality Assurance Certification
