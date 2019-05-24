@@ -23,7 +23,7 @@ I will try to keep it updated when I complete each section of FreeCodeCamp. I wi
     2. jQuery
     3. Sass
     4. React
-        - Until Set State
+        - Completed until Lifecycle
 
 ## To-Dos:
 
