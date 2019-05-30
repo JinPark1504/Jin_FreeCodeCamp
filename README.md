@@ -24,6 +24,7 @@ I will try to keep it updated when I complete each section of FreeCodeCamp. I wi
     3. Sass
     4. React
     5. Redux
+    6. React and Redux
 
 ## To-Dos:
 
